@@ -1,0 +1,6 @@
+build/**/*
+third_party/**/*
+build_asan/**/*
+.tools/**/*
+.cache/**/*
+.vscode/**/*
